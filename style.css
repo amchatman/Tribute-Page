@@ -9,39 +9,39 @@ body{
     text-align:center;
 }
 p{
-    margin-top:15px;
-    margin-bottom:15px;
+    margin-top:0.9375rem;
+    margin-bottom:0.9375rem;
 }
 #main{
-    margin:35px 10px;
-    padding:15px;
+    margin:2.1875rem 0.625rem;
+    padding:0.9375rem;
     display:block;
    background-color:#e2dfdf;
-    border-radius:5px;
+    border-radius:0.3125rem;
    }
 #title{
-       margin-top:30px;
-       font-size:40px;
+       margin-top:1.875rem;
+       font-size:2.5rem;
    }
 #img-div{
  background-color:#F2F2F2;
 }
 #img-caption{
-    padding:15px;
+    padding:0.9375rem;
 }
 #image{
     max-width:100%;
     margin:0 auto;
     height:auto;
     display:block;
-    padding:15px;
+    padding:0.9375rem;
 }
 #tribute-info{
-    margin:30px auto;
+    margin:1.875rem auto;
     width:50%;
 }
 ul li{
-    padding:10px;
+    padding:0.625rem;
     text-align:left;
 }
 strong{
